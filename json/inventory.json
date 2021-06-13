@@ -1,0 +1,31 @@
+{	
+	"rice": [
+				{ 
+					"name":"basmati",
+					"weight":8,
+					"price per kg": 200
+				},
+				{
+					"name":"dawwat",
+					"weight":5,
+					"price per kg": 150
+				
+				}
+			],
+			
+	"pulses": [
+				{
+					 "name":"lentils",
+					 "weight":2,
+					 "price per kg": 20 
+				}
+			],
+			
+	"wheat": [
+				{ 
+					"name":"​soya", 
+					"weight":5,
+					"price per kg": 99
+				}
+			]
+}
